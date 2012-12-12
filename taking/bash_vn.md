@@ -17,7 +17,7 @@ Bash có 1 ưu điểm vượt trội hơn cả so với các ngôn ngữ còn l
 
 Bash for sysadmin
 -----
-Bash is untyped. Bash không có các khái niệm lập trình như OOP, không có các cấu trúc dữ liệu  như array, list, dict. Bash đơn giản chỉ là 1 ngôn ngữ đóng vai trò glue code (kết dính các chương trình lại). 
+Bash is untyped. Bash không có các khái niệm lập trình như OOP, không có các cấu trúc dữ liệu  list, dict. Bash đơn giản chỉ là 1 ngôn ngữ đóng vai trò glue code (kết dính các chương trình lại). 
 
 * Các admin không quan tâm đến cấu trúc dữ liệu, không cần các object, họ chỉ cần các câu lệnh để hoàn thành công việc.
 * Bash cung cấp cú pháp để điều khiển chương trình (while for if else switch) và xử lý logic.
